@@ -1,0 +1,18 @@
+ <!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Hola mundo</title>
+    </head>
+
+    <body>
+        <h1 id="mensaje">Holaaaa</h1>
+        
+        <script>
+          //  alert('adios');
+          document.getElementById('mensaje').innerHTML= 'Adioos';
+        console.log('adios');
+        </script>
+         
+    </body>
+</html>
